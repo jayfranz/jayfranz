@@ -1,31 +1,30 @@
+# Jaymee Garcia – Front-End & WordPress Developer
 
-# Hi, I'm Jaymee Franz 👋
+🔗 **Live site:** https://jayfranz.github.io/developer-portfolio/
 
-### Front-End Developer | WordPress Developer
+I've been building websites for almost 15 years, mostly with Divi and other
+WordPress page builders. When a page builder isn't enough, I write custom
+PHP and JavaScript and right now creating AI Agents and Web Application
 
-I'm a front-end web developer with 14 years of experience building and maintaining websites. I enjoy turning designs into responsive, user-friendly experiences and solving practical development challenges.
+## What's on the site
 
-## 🛠️ Technologies & Tools
+- **Home** – who I am and what I do
+- **WordPress case study** – a real project, with client details removed
+- **Code samples** – small examples written for this portfolio, no employer
+  or client code
 
-- **Front End:** HTML, CSS, JavaScript
-- **CMS & Builders:** WordPress, Divi, Elementor, Bricks Builder
-- **WordPress Development:** PHP, MySQL, Advanced Custom Fields (ACF)
-- **E-commerce & Platforms:** Shopify
-- **Tools & Workflow:** Git, GitHub, Figma, Chrome DevTools
+## What I work with
 
-## 🚀 What I'm Working On
+- WordPress (Divi and other page builders)
+- HTML, CSS, JavaScript
+- PHP
+- Site fixes, troubleshooting, and speed improvements
 
-- Building responsive and reusable website components
-- Improving WordPress performance and website accessibility
-- Developing custom WordPress functionality
-- Exploring better development workflows and integrations
+## About this site
 
-## 📂 Featured Projects
+Plain HTML, CSS, and vanilla JavaScript. No build step.
+To run it locally, clone the repo and open `index.html`.
 
-*Coming soon — I'll be adding selected projects, code examples, and development case studies.*
+## Contact
 
-## 🤝 Let's Connect
-
-- **GitHub:** https://github.com/jayfranz
-
-I'm open to connecting with developers, collaborating on interesting projects, and exploring opportunities in front-end and WordPress development.
+[Email / LinkedIn]
